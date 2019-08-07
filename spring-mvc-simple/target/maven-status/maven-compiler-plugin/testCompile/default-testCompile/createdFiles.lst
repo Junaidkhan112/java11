@@ -1,0 +1,6 @@
+com/baeldung/SpringContextTest.class
+com/baeldung/spring/servlets/WelcomeServletIntegrationTest.class
+com/baeldung/spring/servlets/HelloServletIntegrationTest.class
+com/baeldung/SpringContextIntegrationTest.class
+com/baeldung/controller/rss/ArticleRssIntegrationTest.class
+com/baeldung/controller/push/PushControllerIntegrationTest.class
